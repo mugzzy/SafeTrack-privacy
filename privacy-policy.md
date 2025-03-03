@@ -5,78 +5,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SafeTrack Privacy Policy</title>
     <style>
-    /* General Styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+        /* General Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    line-height: 1.6;
-    padding: 20px;
-}
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
 
-header {
-    text-align: center;
-    background-color: #4CAF50;
-    color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-}
+        header {
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
 
-header h1 {
-    font-size: 2em;
-}
+        header h1 {
+            font-size: 2em;
+        }
 
-main {
-    max-width: 800px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
-.policy-section {
-    margin-bottom: 20px;
-}
+        .policy-section {
+            margin-bottom: 20px;
+        }
 
-.policy-section h2, .policy-section h3 {
-    color: #4CAF50;
-}
+        .policy-section h2, .policy-section h3 {
+            color: #4CAF50;
+        }
 
-ul {
-    list-style-type: disc;
-    margin-left: 20px;
-}
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
 
-ul li {
-    margin-bottom: 10px;
-}
+        ul li {
+            margin-bottom: 10px;
+        }
 
-footer {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 0.9em;
-    color: #777;
-}
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
 
-a {
-    color: #4CAF50;
-    text-decoration: none;
-}
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
 
-a:hover {
-    text-decoration: underline;
-}
-
-    <\style>
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
-  
 <body>
 
     <header>
